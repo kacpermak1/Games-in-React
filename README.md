@@ -17,6 +17,6 @@ You have 10 seconds to click the button with the correct result.
 - Webpack
 
 ## Preview:
-Check the preview of the <b>Clicker Game</b> here: *https://kacpermak1.github.io/Games-in-React/clicker/*
+Check the preview of the <b>Clicker Game</b> here: *https://kacpermak1.github.io/Games-in-React/clicker/index.html*
 
-Check the preview of the <b>Math Question Game</b> here: *https://kacpermak1.github.io/Games-in-React/mathquestion/*
+Check the preview of the <b>Math Question Game</b> here: *https://kacpermak1.github.io/Games-in-React/mathquestion/index.html*
